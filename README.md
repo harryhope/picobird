@@ -15,7 +15,7 @@
 **This project was built using:**
 1. [Raspberry Pi Pico.](https://www.raspberrypi.com/products/raspberry-pi-pico/) Any version as of 2022 should work.
 2. [Waveshare 1.14inch LCD](https://www.waveshare.com/wiki/Pico-LCD-1.14)
-3. (Optional) [Waveshare USP Hat](https://www.waveshare.com/wiki/Pico-UPS-B). This allows the game to be played via battery.
+3. (Optional) [Waveshare UPS-B.](https://www.waveshare.com/wiki/Pico-UPS-B) This allows the game to be played via battery.
 
 ## Getting Started
 
